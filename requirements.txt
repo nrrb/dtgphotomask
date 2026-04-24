@@ -1,0 +1,5 @@
+pillow==12.2.0
+numpy==2.2.3
+rich==15.0.0
+rich-argparse==1.4.0
+textual==8.2.4
