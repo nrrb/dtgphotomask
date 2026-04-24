@@ -5,7 +5,8 @@
       "Bash(pip3 install *)",
       "Bash(python3 *)",
       "Bash(python grid_mask.py --help)",
-      "Bash(pip install *)"
+      "Bash(pip install *)",
+      "Bash(pip list *)"
     ]
   }
 }
