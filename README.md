@@ -1,4 +1,4 @@
-# cutphototshirt
+# dtgphotomask
 
 **Print your photos on t-shirts. Without turning the shirt into cardboard.**
 
