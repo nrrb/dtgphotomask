@@ -6,7 +6,15 @@
       "Bash(python3 *)",
       "Bash(python grid_mask.py --help)",
       "Bash(pip install *)",
-      "Bash(pip list *)"
+      "Bash(pip list *)",
+      "Bash(npm create *)",
+      "Bash(npm install *)",
+      "Bash(npx tailwindcss *)",
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:5173)",
+      "Bash(open *)",
+      "Bash(npx playwright *)",
+      "Bash(node *)"
     ]
   }
 }
